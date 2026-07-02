@@ -1,0 +1,6 @@
+{
+  "name": "AIFit Elite",
+  "description": "An elite-tier AI fitness dashboard and tracker with Coach AI suggestions, personalized workouts, meal logging, and task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
